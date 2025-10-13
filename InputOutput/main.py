@@ -1,4 +1,4 @@
-# Comments
+## Comments
 
 # Input
 name = input("Enter name: ")

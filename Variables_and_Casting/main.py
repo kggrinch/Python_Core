@@ -1,6 +1,7 @@
 
 # Variables = variables in python do not need to specify types. Note python does not assign default values automatically, you must use None keyword or
 #             manually assign default values to variables
+#
 
 
 # Strings
