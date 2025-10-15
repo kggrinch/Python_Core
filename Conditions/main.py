@@ -17,3 +17,23 @@ if for_sale:
     print("This item is for sale")
 else:
     print("This item is not for sale")
+
+# Conditional Expressions = A one-line shortcut for the if-else statement  (ternary operator). Print one or assign one of two values base on a condition.
+#                           x if condition else y
+
+# positive or negative
+num = 5
+string = "Positive" if num > 0 else "Negative"
+print(string)
+
+# even or odd
+num2 = 6
+string = "Even" if num2 % 2 == 0 else "Odd"
+print(string)
+
+# largest value
+x = 3
+y = 5
+max_num = x if x >= y else y
+print(max_num)
+
