@@ -28,9 +28,6 @@
 #          0 1 | 1
 #          1 1 | 0
 
-
-
-
 temp = 25
 
 # AND example
